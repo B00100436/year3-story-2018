@@ -8,5 +8,4 @@ Git Story - not a very exciting story about a man, a girl a horse and a dog...It
 V1: Chapter 1 complete
 V2: Chapter 2 complete
 V3: Chapter 3 complete
-
-Updating Readme for the sake of an update...
+V4: Alternative ending
